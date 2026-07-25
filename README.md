@@ -5,7 +5,7 @@ This repository contains the official academic transcripts and records for my un
 ## 🎓 Education Summary
 - **Degree:** B.Sc. Eng (Hons.) in Electronic & Telecommunication Engineering
 - **Current CGPA:** 3.95 / 4.00
-- **Honors:** Dean's List (All Semesters), Batch Rank 22/100
+- **Honors:** Dean's List (All Semesters), Batch Rank 20/100
 
 ## 📂 Available Documents
 
